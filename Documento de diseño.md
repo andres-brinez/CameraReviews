@@ -119,3 +119,27 @@ Ejemplo:
 - 1000 llamadas diarias a serverless functions. $XX.XX
 - 1000 read/write units diarias a X Database on-demand. $XX.XX
   Total: $xx.xx (al mes/dia/año)
+
+
+### Respuesta esperada desde el backend (ejemplo)
+
+    {
+    "status": "OK",
+    "message": "",
+        "review": {
+            "id": 1,
+            "content": {
+                "title": "The title of the review",
+                "author": "The author of the review",
+                "content": "The content of the review",
+                "product": {
+                    "id": 1,
+                    "name": "name product",
+                    "description":"Description of the product",
+                    "manufacturer":"Manufacturer of the product",
+                    "sku": "",
+                    "feature":[]
+                }
+            }
+        }
+    }
