@@ -48,6 +48,11 @@ Descripción..
 
 ![image](https://github.com/andres-brinez/CameraReviews/assets/94869227/fafbcb7d-3b14-4e36-9825-8456b5898f2c)
 
+#### Diagrama de clase 
+
+![entity-design-c8050de6-acb1-44e7-addc-be92a47b7372](https://github.com/andres-brinez/CameraReviews/assets/94869227/5430aa7d-fccf-49cd-ad88-a1e2820bac05)
+
+![EntityDiagram drawio-6fbe9896-4606-47a2-ba82-7216291fab7f](https://github.com/andres-brinez/CameraReviews/assets/94869227/ac078f4c-9c19-46a6-a3b4-354acac7dd67)
 
 
 ### Modelo de datos
