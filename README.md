@@ -21,6 +21,11 @@ Tambien se sabe que la empresa "RandomCameraReviews" planea distribuir mayorment
 
 ![requirements](https://github.com/andres-brinez/CameraReviews/assets/94869227/2b5c957e-5a01-4ec1-b8d3-968730e2f3e2)
 
+![ejercicio-264d63e6-df5b-4dcd-ae5c-6e963131aa79](https://github.com/andres-brinez/CameraReviews/assets/94869227/114c790c-4032-4ce9-90a4-7b072b9470a7)
+
+![image](https://github.com/andres-brinez/CameraReviews/assets/94869227/fafbcb7d-3b14-4e36-9825-8456b5898f2c)
+
+
 
 ## Datos importantes
 
