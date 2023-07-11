@@ -18,6 +18,10 @@ La empresa cuenta con un equipo de developers especializado en frontEnd que real
 
 Tambien se sabe que la empresa "RandomCameraReviews" planea distribuir mayormente en America del Sur donde esta su mercado mas grande, pero tambien tienen ventas en norte america, Europa, y muy pocas en Asia.
 
+
+![requirements](https://github.com/andres-brinez/CameraReviews/assets/94869227/2b5c957e-5a01-4ec1-b8d3-968730e2f3e2)
+
+
 ## Datos importantes
 
 Pocos editores solo ubicados en LATAM  - Muchos usuarios provenientes de casi todo el mundo 👏🏼👏🏼
