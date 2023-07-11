@@ -48,7 +48,12 @@ Descripción..
 
     Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc..
 
----
+### Plan de pruebas
+
+* Crear proyecto de pruebas que valide los siguientes casos de uso 
+- Registrar un usuario nuevo y validar que se haya creado correctamente, 
+- loguear un usuario y crear un review,
+- simular que ub visitante puede  obtener un review, 
 
 ## Limitaciones
 
