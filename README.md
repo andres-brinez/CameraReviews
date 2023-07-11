@@ -20,8 +20,7 @@ Tambien se sabe que la empresa "RandomCameraReviews" planea distribuir mayorment
 
 ## Datos importantes
 
-Pocos editores solo ubicados en LATAM
-Muchos usuarios provenientes de casi todo el mundo 👏🏼👏🏼
+Pocos editores solo ubicados en LATAM  - Muchos usuarios provenientes de casi todo el mundo 👏🏼👏🏼
 
 * Los reviews de camaras fotograficas son escritos por editores, y pueden ser editados por los mismos.
 * Los reviews de camaras fotograficas pueden ser vistos por cualquier usuario.
