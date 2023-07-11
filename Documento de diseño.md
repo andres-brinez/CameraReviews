@@ -48,6 +48,9 @@ Descripción..
 
     Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc..
 
+    ![image](https://github.com/andres-brinez/CameraReviews/assets/94869227/50b70281-f63f-4139-af4a-092da0679e58)
+
+
 ---
 
 ## Limitaciones
