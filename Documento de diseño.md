@@ -1,5 +1,10 @@
 # Titulo: Template de documento de diseÃ±o
 ---
+
+## ¿Que es este documento?
+
+El documento de diseño contiene todos los detalles necesarios para desarrollar el sistema
+
 ## Overview: Problema a resolver
 DescripciÃ³n..
 
