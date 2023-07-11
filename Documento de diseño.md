@@ -50,6 +50,27 @@ Descripción..
 
 #### Diagrama de clase 
 
+<h3>“La entidad es el objeto que satisface las reglas de negocio”
+.
+En estas clases creamos las entidades, estas bien pueden ser las entidades de nuestra base de datos o las clases de nuestra aplicación:</h3>
+
+#### Reseña
+* Titulo
+* Contenido
+* Autor
+* Producto - ¿por qué es producto y no camara sabiendo que solo se van a reseñar camaras? Porque en un futuro se pueden reseñar otros productos como lentes, flashes, etc. por lo que se debe pensar en como puede crecer la aplicación.
+Nombre del producto
+   Fabricante del producto
+   SKU del producto que es un identificor único 
+
+
+#### Camara:
+* ISO
+* Flash
+* Formato
+* Tipo
+
+
 ![entity-design-c8050de6-acb1-44e7-addc-be92a47b7372](https://github.com/andres-brinez/CameraReviews/assets/94869227/5430aa7d-fccf-49cd-ad88-a1e2820bac05)
 
 ![EntityDiagram drawio-6fbe9896-4606-47a2-ba82-7216291fab7f](https://github.com/andres-brinez/CameraReviews/assets/94869227/ac078f4c-9c19-46a6-a3b4-354acac7dd67)
