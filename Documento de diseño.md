@@ -44,6 +44,9 @@ Descripción..
 
     poner diagramas de secuencia, uml, etc
 
+![image](https://github.com/andres-brinez/CameraReviews/assets/94869227/8ac40ee8-00ab-4462-ae9b-5a4d5eb529a8)
+
+
 ### Modelo de datos
 
     Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc..
