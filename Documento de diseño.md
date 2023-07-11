@@ -121,7 +121,7 @@ Ejemplo:
   Total: $xx.xx (al mes/dia/año)
 
 
-### Respuesta esperada desde el backend (ejemplo)
+### Respuesta esperada desde el backend (ejemplo) Modelo de datos
 
     {
     "status": "OK",
